@@ -1,35 +1,35 @@
 Package: acton
-Version: 0.6.2.20210928.8.10.56
+Version: 0.6.2.20210928.9.22.55
 Architecture: amd64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
 Installed-Size: 10880
-Depends: libc6 (>= 2.29), libgmp10, libprotobuf-c1 (>= 1.0.1), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4), gcc, libprotobuf-c-dev, libutf8proc-dev
+Depends: libc6 (>= 2.29), libgmp10, libprotobuf-c1 (>= 1.0.1), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4), gcc, libutf8proc2
 Homepage: http://www.acton-lang.org
 Priority: optional
 Section: devel
-Filename: pool/main/a/acton/acton_0.6.2.20210928.8.10.56_amd64.deb
-Size: 1718388
-SHA256: d8af905fc7761d1bc4eca11ef8de303536d8d334842114b44385096d5c001321
-SHA1: 349f68a3ea92ce4781e8da83c7da9384a9a8bc19
-MD5sum: b81827ec75be97d676f8a12fc75561ad
+Filename: pool/main/a/acton/acton_0.6.2.20210928.9.22.55_amd64.deb
+Size: 1717192
+SHA256: 17e9543d2e3dbd0587d6882b07306b9d7d835596d003c46a0cceb8a3e84780e7
+SHA1: 25d06ab3ca3eb173bdb75f2f00a72347b3177692
+MD5sum: 24f0703c889a179a9c3b64236bbfcf43
 Description: Acton Programming Language
  An awesome programming language.
 
 Package: acton-dbgsym
 Source: acton
-Version: 0.6.2.20210928.8.10.56
+Version: 0.6.2.20210928.9.22.55
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
 Installed-Size: 250
-Depends: acton (= 0.6.2.20210928.8.10.56)
+Depends: acton (= 0.6.2.20210928.9.22.55)
 Priority: optional
 Section: debug
-Filename: pool/main/a/acton/acton-dbgsym_0.6.2.20210928.8.10.56_amd64.deb
+Filename: pool/main/a/acton/acton-dbgsym_0.6.2.20210928.9.22.55_amd64.deb
 Size: 204640
-SHA256: dc4dab6005dfbdbbe1f35c6585d47345da110239fb80462d47cfbd93d4046af7
-SHA1: 7ffa78d72909299b02b1572ae3b9425a24c6da13
-MD5sum: 410503ff59486f547f6b7058d514cf1a
+SHA256: d7e4fa4cca3c1bdc530072b9f35bdc23268a1fb294fc2d3117702e750fd8cafc
+SHA1: a7fd8845009a9e14e6e76665dc564bfada6a34b5
+MD5sum: 270c5161625080fbaa7b73ac660a8849
 Description: debug symbols for acton
 Build-Ids: 5f4cb897c6a5d038d0c8333fca57ec0f8cff5ce8
 
