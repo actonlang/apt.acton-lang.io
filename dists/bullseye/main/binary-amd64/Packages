@@ -1,35 +1,35 @@
 Package: acton
-Version: 0.7.1
+Version: 0.7.2
 Architecture: amd64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
-Installed-Size: 11260
+Installed-Size: 11975
 Depends: libc6 (>= 2.29), libgmp10, libprotobuf-c1 (>= 1.0.1), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4), gcc, libutf8proc2
 Homepage: http://www.acton-lang.org
 Priority: optional
 Section: devel
-Filename: pool/main/a/acton/acton_0.7.1_amd64.deb
-Size: 1803544
-SHA256: ce7bf85bcc8ef738580c910c0e7bb14751b691b4b4b9500aec27f49bb1ccb112
-SHA1: 2a3f1b1461dccb9ad4b7aa09103389f9b3d2990d
-MD5sum: d01217764b5eba8b847115b469df1077
+Filename: pool/main/a/acton/acton_0.7.2_amd64.deb
+Size: 1886588
+SHA256: 69c2fe91bc4a93a524fc87fb062e4795a0cf5779487e7c4182cacf13ff030039
+SHA1: 0d63c1e965348ec8d8622932f3c5f850f0d91d57
+MD5sum: 4dbd40ae39056e9a191274b2ee327d59
 Description: Acton Programming Language
  An awesome programming language.
 
 Package: acton-dbgsym
 Source: acton
-Version: 0.7.1
+Version: 0.7.2
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
 Installed-Size: 250
-Depends: acton (= 0.7.1)
+Depends: acton (= 0.7.2)
 Priority: optional
 Section: debug
-Filename: pool/main/a/acton/acton-dbgsym_0.7.1_amd64.deb
-Size: 204640
-SHA256: 6a8114b2fdd0b3cfa44487291c4ca6cba3471c963df19ad78afbfa82a9413842
-SHA1: 769570fce072da67382f8b0432498184c6b860c6
-MD5sum: bc418b4f38c792ac4c864272cfae6b26
+Filename: pool/main/a/acton/acton-dbgsym_0.7.2_amd64.deb
+Size: 204692
+SHA256: 6bcfc9682aa98034c87d69453ccb500d1f814b29b7a97525116e58144a0ca1e6
+SHA1: 7b3b5ebff42835471d6ccfd1c8a2f3c0b8df2345
+MD5sum: 0e2943d83e1e9a4026236b7da1fc0082
 Description: debug symbols for acton
-Build-Ids: b23243da17185ae5d82065f533442f8ccc965987
+Build-Ids: ae78df200ac3a836b340b7988d8bf9475f4f005e
 

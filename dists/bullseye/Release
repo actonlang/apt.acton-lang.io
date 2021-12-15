@@ -2,19 +2,19 @@ Origin: Acton
 Label: Acton
 Suite: stable
 Codename: bullseye
-Date: Tue, 23 Nov 2021 23:24:52 UTC
+Date: Wed, 15 Dec 2021 21:27:24 UTC
 Architectures: amd64
 Components: main
 Description: Acton apt repository
 MD5Sum:
- bc57b74044d383986f3eb858d93cc792 1179 main/binary-amd64/Packages
- 3ba07393872de618d6bc12efb26c4ce4 652 main/binary-amd64/Packages.gz
+ 27feb5f64ff3e304e3c0c62f4fd5ada3 1179 main/binary-amd64/Packages
+ 4339bd6ee5e77c865dfb20d712cc7648 654 main/binary-amd64/Packages.gz
  8f91277e59035ea36066b8c144dfce6b 113 main/binary-amd64/Release
 SHA1:
- b407d03d3ae7dc94cfacf5906f54dda87940b297 1179 main/binary-amd64/Packages
- 91bb49368973886989316e2ce30a8011d5054c85 652 main/binary-amd64/Packages.gz
+ df37a9f7d593a6fc0418cfdecd0926643f0f43c5 1179 main/binary-amd64/Packages
+ 9bcc32f76eb306c67c7497091efeab64d64244e9 654 main/binary-amd64/Packages.gz
  e8c691d72ee4c15faf73ebf57828b3c0f8d3b1ea 113 main/binary-amd64/Release
 SHA256:
- 8208888a8d4b8f69108ba8b68728a2404a4ad4f32805857b4f3088fbe5d2c9de 1179 main/binary-amd64/Packages
- 8f5b135525cc8a5921283e342cf427a5a1ca9332ff566c64f12f7beca6229eaa 652 main/binary-amd64/Packages.gz
+ 91eff79c840353bc1bdeb15a3f801b3307e8b7be8e05889dfcee07d275e56f8c 1179 main/binary-amd64/Packages
+ 3658579da6e967b7897423214183c14fa993e85cc3ea5119f0caad73306640d7 654 main/binary-amd64/Packages.gz
  a7f215b09b3b4cc5bb0e54d634d05baf44aedc420f3125f8853b4aa4455ab7af 113 main/binary-amd64/Release
