@@ -5,33 +5,33 @@ Origin: Acton
 Label: Acton
 Suite: stable
 Codename: bullseye
-Date: Wed, 15 Dec 2021 21:27:24 UTC
+Date: Mon, 03 Jan 2022 13:16:22 UTC
 Architectures: amd64
 Components: main
 Description: Acton apt repository
 MD5Sum:
- 27feb5f64ff3e304e3c0c62f4fd5ada3 1179 main/binary-amd64/Packages
- 4339bd6ee5e77c865dfb20d712cc7648 654 main/binary-amd64/Packages.gz
+ 29235c7dcefefafb1f8969b981d2a539 1179 main/binary-amd64/Packages
+ 63cdec356afc63163abf48ca4f71b384 656 main/binary-amd64/Packages.gz
  8f91277e59035ea36066b8c144dfce6b 113 main/binary-amd64/Release
 SHA1:
- df37a9f7d593a6fc0418cfdecd0926643f0f43c5 1179 main/binary-amd64/Packages
- 9bcc32f76eb306c67c7497091efeab64d64244e9 654 main/binary-amd64/Packages.gz
+ e04b97c65f9114130c32901003977972ea70462b 1179 main/binary-amd64/Packages
+ c91f8902255eb193ca45eb81bc2dac5887247734 656 main/binary-amd64/Packages.gz
  e8c691d72ee4c15faf73ebf57828b3c0f8d3b1ea 113 main/binary-amd64/Release
 SHA256:
- 91eff79c840353bc1bdeb15a3f801b3307e8b7be8e05889dfcee07d275e56f8c 1179 main/binary-amd64/Packages
- 3658579da6e967b7897423214183c14fa993e85cc3ea5119f0caad73306640d7 654 main/binary-amd64/Packages.gz
+ 71208a5289b50743ce68f0ef0fe4d79b8fac754e543a705211ef53191ffce42a 1179 main/binary-amd64/Packages
+ 95fc2dc8ee013ff3f0b1a740fe5cc1c1691069ea6278fc5551d6fd444c1231df 656 main/binary-amd64/Packages.gz
  a7f215b09b3b4cc5bb0e54d634d05baf44aedc420f3125f8853b4aa4455ab7af 113 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEBbqisxkyppKzt3P4tCu7fdZYLIcFAmG6XbwACgkQtCu7fdZY
-LIfJpwwAlSPiaPyTxl/BQBve1rwLaQHTxcysLf2O1B6cACrbOfYz5qPXNN8wrgib
-luBwuWyW08p7z4bKTU879EuHmdXb+S6719RHH2mUDKYyQlj2qr/8fU5SUUqD7Oza
-zBunCCvXWM7ypi7z2gr7rD1ki4jM/W8Tb7FuJ71PxccZ/jzpNRMXk8GAdV0XTFqe
-LcpEQ+26eQmJkpoeRlxTXXW3ba5dKv3RHn9tUSXtdSofmzdPpN+SaJ4m68zVSge8
-09pJSUXExfFZ92Jyyej9VVEktXQwtn9ApKyMzi2CrzinBzjYS4A+Pku4aXdiaQQo
-/IOpu41mJHv1ni7gIQMwatewigikuhui63eOTpjFCmPfLBW5Jxa1AMWwfl5dH64N
-O0B+VkC4mrPd2+TwP2Mop5K8qpCKq9hhys0e/RTOCVNG7Pm7JYFQVAa9dNcVU8qw
-Zz4FzvLlp5oQlSHm+WjwssDijJm4PSDKBD8wTTQ5Aw0yg/af/KHY/ZJrGyBh5Qev
-xsCkKRbn
-=E9pz
+iQGzBAEBCgAdFiEEBbqisxkyppKzt3P4tCu7fdZYLIcFAmHS9yYACgkQtCu7fdZY
+LIcKxQv/dQtDzs+trkWG0o5ptTuEOBxH5gpfiGRCV1EJDzWVW/aNMBNLYHhvMPew
+bLPclbKurXolScQDbpu+xagBWtXZ9vEn2oy4G+BG8MNKALzOSPXhsNVJ4IV4Q6J6
+ucrXE0HmXBTb0vS9qpLaUk5Ty81Xyl5DXEVt2m9VIB9udAqc0KLHjPnxrAcwu82c
+woTB0x6BS4R+wJ/fyH8cBc4wKbeyfI3MqhvPo3vr+9XTbpJcrCXHEoqjS14pHCij
+4bNFHikLAt4RxGcsxfXsHd+qZ9RYErbEead5s24bQ95irK+/21S6YUeziQoKgfm+
+5Lja5yWUF3kIzAkA2JZVRll78U7EZShTucmchn5l3WSQjm1yHVnP2rr8NWimfAut
+GhrSwku5vuHvWeEYCV11kP5QyZTpYh2lCOXFM9bxNY+quA98TAkaIzHKkXpo0SK2
+CW5E5fm9jGRCoey23rJtONJkAvFqvXgtUoSTo2pHTfs0esugUk2xdMJXDtVL9g9C
+eNN1rDCj
+=9DZ9
 -----END PGP SIGNATURE-----
