@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Acton
+Label: Acton
+Architecture: amd64
+Description: Acton apt repository
