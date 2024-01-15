@@ -1,4 +1,22 @@
 Package: acton
+Version: 0.19.2
+Architecture: amd64
+Maintainer: Kristian Larsson <kristian@spritelink.net>
+Installed-Size: 375754
+Depends: libc6 (>= 2.17)
+Homepage: http://www.acton-lang.org
+Priority: optional
+Section: devel
+Filename: pool/main/a/acton/acton_0.19.2_amd64.deb
+Size: 59492808
+SHA512: 7b52416c520e8487e67ad084446b83fb361f24fe64e5919894b7dc96c616284f44878f3bbec8ca417959a7042edd8fc8910e30eda827b60f0a32f652ba71ddc6
+SHA256: 5b590296e6e28b216594ce4dd03fa8d0f090fae29a59b729216019938c14166c
+SHA1: 4ad9dea6c405090336873810258f3361786da801
+MD5sum: 9af861a1a280dff732df2681eb10c88f
+Description: Acton Programming Language
+ An awesome programming language.
+
+Package: acton
 Version: 0.19.1
 Architecture: amd64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
