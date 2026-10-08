@@ -1,4 +1,22 @@
 Package: acton
+Version: 0.31.0
+Architecture: arm64
+Maintainer: Kristian Larsson <kristian@spritelink.net>
+Installed-Size: 566871
+Depends: libc6 (>= 2.28), ca-certificates
+Homepage: https://acton.now/
+Priority: optional
+Section: devel
+Filename: pool/main/a/acton/acton_0.31.0_arm64.deb
+Size: 82110988
+SHA512: 7000d8d4c37cdf8fe15bb0db28003f6266f5f908f5e1395c74fd6e5a3e126b2c76ab2c1e1810373e45a9def493574825f998aa911a8d2a84e7382ea1ed5a076b
+SHA256: b625a027d2038988de03bb856dc6e1e0f7fa0253699969e3423089332ccb2e11
+SHA1: 97460eb136b97a87f916d6220ffb903f59526696
+MD5sum: 7a8d50a9c99660db294adcae0f0ff7a4
+Description: Acton Programming Language
+ An awesome programming language.
+
+Package: acton
 Version: 0.30.0
 Architecture: arm64
 Maintainer: Kristian Larsson <kristian@spritelink.net>
